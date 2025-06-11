@@ -49,6 +49,7 @@ This project was built to demonstrate effective personal finance tracking using 
 *You can optionally upload a screenshot of your dashboard and display it like this:*
 
 ![Dashboard Preview](dashboard_screenshot.png)
+![Introduction Preview](Introduction.png)
 
 ---
 
